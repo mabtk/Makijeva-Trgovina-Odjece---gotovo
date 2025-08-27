@@ -1,0 +1,2 @@
+Marko,Rakić,18,wasd,Radnik
+Mitar,Mirić,201,nmnn,Gazda

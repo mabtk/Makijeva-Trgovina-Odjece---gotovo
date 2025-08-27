@@ -1,0 +1,5 @@
+1;Adidas Ozweego;Jako kul tene;300;BAM;Tene;40
+2;Nike Air Forse 1;Tene ne tako kul;250;BAM;Tene;80
+3;Air Jordan 1 Taxi;Klošarkaške tene;175;BAM;Tene;20
+4;Nike Majica;Majica;40;RSD;Majica;30
+5;Adidas Trenirka;Hlače;75;USD;Hlače;12

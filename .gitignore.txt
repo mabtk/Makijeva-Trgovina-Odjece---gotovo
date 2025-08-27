@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+ConsoleApp4/bin/
+ConsoleApp4/obj/
+
+# Temp files
+*.log
+*.tmp

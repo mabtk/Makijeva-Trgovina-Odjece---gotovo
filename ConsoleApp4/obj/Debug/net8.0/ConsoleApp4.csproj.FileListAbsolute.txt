@@ -1,0 +1,65 @@
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Marko Rakic\source\zadaci\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.sourcelink.json
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\bin\Debug\net8.0\SpisakProizvoda.txt
+C:\Users\Marko Rakic\source\zadaci\Makijeva Trgovina\ConsoleApp4\bin\Debug\net8.0\SpisakRadnika.txt
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\SpisakProizvoda.txt
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\SpisakRadnika.txt
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main (1)\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\SpisakTransakcija.txt
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\SpisakProizvoda.txt
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\SpisakRadnika.txt
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\SpisakTransakcija.txt
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Marko Rakic\source\Trgovina odjece\Makijeva-Trgovina-Odjece-main\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll

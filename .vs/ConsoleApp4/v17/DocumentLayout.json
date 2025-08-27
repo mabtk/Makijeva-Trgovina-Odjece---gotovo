@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\proizvod\\tene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\proizvod\\tene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\proizvod\\proizvodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\proizvod\\proizvodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\proizvod\\tipproizvoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\proizvod\\tipproizvoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\ugovor\\iprodaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\ugovor\\iprodaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\zaposlenik\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\zaposlenik\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\zaposlenik\\polozajiradnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\zaposlenik\\polozajiradnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\zaposlenik\\menad\u017Eer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\zaposlenik\\menad\u017Eer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\proizvod\\u\u010Ditavanjeproizvoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\proizvod\\u\u010Ditavanjeproizvoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\proizvod\\hla\u010De.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\proizvod\\hla\u010De.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\ugovor\\iproizvodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\ugovor\\iproizvodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\zaposlenik\\zaposlenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\zaposlenik\\zaposlenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\prodaja\\transakcije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\prodaja\\transakcije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\proizvod\\majica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\proizvod\\majica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\prodaja\\opistransakcije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\prodaja\\opistransakcije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\cijena\\valuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\cijena\\valuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\prodaja\\u\u010Ditavanjetransakcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\prodaja\\u\u010Ditavanjetransakcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\cijena\\cijena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\cijena\\cijena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\zaposlenik\\gazda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\zaposlenik\\gazda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\zaposlenik\\u\u010Ditavanjeradnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\zaposlenik\\u\u010Ditavanjeradnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\marko rakic\\source\\trgovina odjece\\makijeva-trgovina-odjece-main - copy\\consoleapp4\\consoleapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A822439-8C8F-4903-9FCC-65370BED730B}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\consoleapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAADcWAAAAAAAAAAAcwEoWAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-27T11:30:41.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tene.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Tene.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Proizvod\\Tene.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Tene.cs",
+              "RelativeToolTip": "ConsoleApp4\\Proizvod\\Tene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transakcije.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Prodaja\\Transakcije.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Prodaja\\Transakcije.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Prodaja\\Transakcije.cs",
+              "RelativeToolTip": "ConsoleApp4\\Prodaja\\Transakcije.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OpisTransakcije.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Prodaja\\OpisTransakcije.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Prodaja\\OpisTransakcije.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Prodaja\\OpisTransakcije.cs",
+              "RelativeToolTip": "ConsoleApp4\\Prodaja\\OpisTransakcije.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAqwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Zaposlenik.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Zaposlenik.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Zaposlenik\\Zaposlenik.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Zaposlenik.cs",
+              "RelativeToolTip": "ConsoleApp4\\Zaposlenik\\Zaposlenik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Majica.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Majica.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Proizvod\\Majica.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Majica.cs",
+              "RelativeToolTip": "ConsoleApp4\\Proizvod\\Majica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hla\u010De.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Hla\u010De.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Proizvod\\Hla\u010De.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Hla\u010De.cs",
+              "RelativeToolTip": "ConsoleApp4\\Proizvod\\Hla\u010De.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipProizvoda.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\TipProizvoda.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Proizvod\\TipProizvoda.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\TipProizvoda.cs",
+              "RelativeToolTip": "ConsoleApp4\\Proizvod\\TipProizvoda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proizvodi.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Proizvodi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Proizvod\\Proizvodi.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\Proizvodi.cs",
+              "RelativeToolTip": "ConsoleApp4\\Proizvod\\Proizvodi.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAewD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "U\u010DitavanjeProizvoda.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\U\u010DitavanjeProizvoda.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Proizvod\\U\u010DitavanjeProizvoda.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Proizvod\\U\u010DitavanjeProizvoda.cs",
+              "RelativeToolTip": "ConsoleApp4\\Proizvod\\U\u010DitavanjeProizvoda.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "U\u010DitavanjeTransakcija.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Prodaja\\U\u010DitavanjeTransakcija.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Prodaja\\U\u010DitavanjeTransakcija.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Prodaja\\U\u010DitavanjeTransakcija.cs",
+              "RelativeToolTip": "ConsoleApp4\\Prodaja\\U\u010DitavanjeTransakcija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Valuta.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Cijena\\Valuta.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Cijena\\Valuta.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Cijena\\Valuta.cs",
+              "RelativeToolTip": "ConsoleApp4\\Cijena\\Valuta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cijena.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Cijena\\Cijena.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Cijena\\Cijena.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Cijena\\Cijena.cs",
+              "RelativeToolTip": "ConsoleApp4\\Cijena\\Cijena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "U\u010DitavanjeRadnika.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\U\u010DitavanjeRadnika.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Zaposlenik\\U\u010DitavanjeRadnika.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\U\u010DitavanjeRadnika.cs",
+              "RelativeToolTip": "ConsoleApp4\\Zaposlenik\\U\u010DitavanjeRadnika.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menad\u017Eer.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Menad\u017Eer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Zaposlenik\\Menad\u017Eer.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Menad\u017Eer.cs",
+              "RelativeToolTip": "ConsoleApp4\\Zaposlenik\\Menad\u017Eer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProizvodi.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Ugovor\\IProizvodi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Ugovor\\IProizvodi.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Ugovor\\IProizvodi.cs",
+              "RelativeToolTip": "ConsoleApp4\\Ugovor\\IProizvodi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdaja.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Ugovor\\IProdaja.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Ugovor\\IProdaja.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Ugovor\\IProdaja.cs",
+              "RelativeToolTip": "ConsoleApp4\\Ugovor\\IProdaja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PolozajiRadnika.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\PolozajiRadnika.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Zaposlenik\\PolozajiRadnika.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\PolozajiRadnika.cs",
+              "RelativeToolTip": "ConsoleApp4\\Zaposlenik\\PolozajiRadnika.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Radnik.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Radnik.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Zaposlenik\\Radnik.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Radnik.cs",
+              "RelativeToolTip": "ConsoleApp4\\Zaposlenik\\Radnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Gazda.cs",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Gazda.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Zaposlenik\\Gazda.cs",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\Zaposlenik\\Gazda.cs",
+              "RelativeToolTip": "ConsoleApp4\\Zaposlenik\\Gazda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:29.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsoleApp4.csproj",
+              "DocumentMoniker": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\ConsoleApp4.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp4\\ConsoleApp4.csproj",
+              "ToolTip": "C:\\Users\\Marko Rakic\\source\\Trgovina odjece\\Makijeva-Trgovina-Odjece-main - Copy\\ConsoleApp4\\ConsoleApp4.csproj",
+              "RelativeToolTip": "ConsoleApp4\\ConsoleApp4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T08:08:29.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

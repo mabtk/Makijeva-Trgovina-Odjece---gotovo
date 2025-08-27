@@ -1,0 +1,50 @@
+1;Adidas Ozweego;Jako kul tene;300;BAM;Tene;40
+2;Nike Air Forse 1;Tene ne tako kul;250;BAM;Tene;80
+3;Air Jordan 1 Taxi;Klošarkaške tene;175;BAM;Tene;20
+4;Nike Majica;Majica;40;RSD;Majica;30
+5;Adidas Trenirka;Hlače;75;USD;Hlače;12
+6;Puma RS-X;Moderne tene za svaki dan;220;BAM;Tene;35
+7;Converse Chuck Taylor;Klasične starke;180;BAM;Tene;50
+8;Reebok Classic;Retro stil;160;BAM;Tene;25
+9;Nike Dri-FIT Majica;Sportska majica koja diše;45;RSD;Majica;40
+10;Under Armour Majica;Majica za trening;50;RSD;Majica;20
+11;Nike Tech Fleece;Udobna trenirka;95;USD;Hlače;15
+12;Champion Hoodie;Topla duksa;60;USD;Dukserica;18
+13;Fila Disruptor II;Tene sa stavom;190;BAM;Tene;22
+14;Adidas Ultraboost;Vrhunska udobnost;280;BAM;Tene;10
+15;New Balance 574;Casual klasika;200;BAM;Tene;27
+16;Nike Shorts;Kratke hlače za ljeto;35;USD;Hlače;33
+17;Adidas Originals Majica;Majica sa logom;55;RSD;Majica;50
+18;Nike Windrunner;Lagana jakna za trčanje;120;USD;Jakna;12
+19;Puma Hoodie;Dukserica sa kapuljačom;65;USD;Dukserica;17
+20;Jordan Shorts;Košarkaške hlače;40;USD;Hlače;20
+21;Levi’s 511 Jeans;Slim fit traperice;85;USD;Hlače;14
+22;Zara Majica;Casual majica;30;RSD;Majica;45
+23;H&M Hoodie;Pamučna duksa;40;USD;Dukserica;28
+24;Nike Pro Leggings;Tajice za trening;55;USD;Hlače;19
+25;Reebok Training Majica;Majica za vježbanje;38;RSD;Majica;37
+26;Nike Air Max 270;Udobne lifestyle tene;260;BAM;Tene;30
+27;Adidas Campus 00s;Skaterski vibe;210;BAM;Tene;18
+28;Nike Club Fleece;Klasična dukserica;55;USD;Dukserica;20
+29;Puma Essentials Majica;Basic komad;28;RSD;Majica;60
+30;H&M Cargo Hlače;Moderne cargo hlače;50;USD;Hlače;22
+31;Jordan Essentials Hoodie;Duks s logom;70;USD;Dukserica;14
+32;Nike Sportswear Majica;Majica sa printom;40;RSD;Majica;33
+33;Zara Jakna;Moderna jakna za jesen;95;USD;Jakna;10
+34;Reebok Club C 85;Old school vibe;175;BAM;Tene;26
+35;Converse Run Star Hike;Platform tene;230;BAM;Tene;11
+36;Adidas Firebird Track Pants;Retro hlače;60;USD;Hlače;19
+37;Nike Swoosh Majica;Brendirana majica;35;RSD;Majica;38
+38;Champion Sweatpants;Udobne trenirka hlače;45;USD;Hlače;21
+39;New Balance 327;Vintage izgled;195;BAM;Tene;17
+40;Under Armour Rival Fleece;Sportski duks;62;USD;Dukserica;15
+41;Nike Therma-FIT Hoodie;Zimski duks;80;USD;Dukserica;12
+42;Pull&Bear Majica;Streetwear stil;33;RSD;Majica;49
+43;Puma Track Jacket;Sportska jakna;85;USD;Jakna;9
+44;Adidas Essentials Shorts;Ljetne hlače;38;USD;Hlače;24
+45;Nike Pegasus 40;Trkaće tene;245;BAM;Tene;13
+46;Asics Gel-Kayano;Stabilne trkaće tene;255;BAM;Tene;8
+47;H&M Puffer Jakna;Topla jakna za zimu;110;USD;Jakna;7
+48;Nike Everyday Socks;Pamučne čarape;15;RSD;Dodaci;100
+49;Adidas Cap;Šilterica s logom;25;RSD;Dodaci;70
+50;Nike Sports Bra;Sportski grudnjak;50;USD;Majica;16
